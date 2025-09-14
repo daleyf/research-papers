@@ -1,3 +1,4 @@
+```json
 {
   "conversation_summary": {
     "topic": "Research / Retrieval-based project",
@@ -200,4 +201,4 @@
       "Open a result → assign label in right panel → add tag 'review-later'"
     ]
   }
-}
+}```
