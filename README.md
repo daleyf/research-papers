@@ -211,5 +211,17 @@
       "Open a result → assign label in right panel → add tag 'review-later'"
     ]
   }
+}```
+
+## MVP Labeling UI
+
+This repository includes a minimal browser-based interface for labeling a small set of research papers.
+
+### Usage
+
+1. Open `index.html` in a web browser.
+2. For each paper, choose a label (bronze, silver, gold) and add a short summary and meaning.
+3. Click **Download Labels** to export your annotations as `labels.json`. The page stores your progress in browser local storage.
+=======
 }
 ```
