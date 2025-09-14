@@ -1,10 +1,13 @@
 # research papers
 
+## power to the human researcher, not the ai
+- bronze-silver-golden papers
+- human source, llm summary, llm meaning
 
 
 
 
-### continous summary for condex
+### continous summary for codex
 ```json
 {
   "conversation_summary": {
