@@ -1,3 +1,13 @@
+# research papers
+
+## power to the human researcher, not the ai
+- bronze-silver-golden papers
+- human source, llm summary, llm meaning
+
+
+
+
+### continous summary for codex
 ```json
 {
   "conversation_summary": {
@@ -212,3 +222,6 @@ This repository includes a minimal browser-based interface for labeling a small 
 1. Open `index.html` in a web browser.
 2. For each paper, choose a label (bronze, silver, gold) and add a short summary and meaning.
 3. Click **Download Labels** to export your annotations as `labels.json`. The page stores your progress in browser local storage.
+=======
+}
+```
